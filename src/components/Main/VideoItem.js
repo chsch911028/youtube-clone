@@ -8,6 +8,11 @@ const VideoItem = ({ video }) => {
 
   const getViewCount = async videoId => {
     const response = await axios
+      .create({ baseURL: "http://localhost:3000/videos" })
+      .get(`/${videoId}`);
+
+    /* Get Youtube Channel Data - Origin Method 
+    const response = await axios
       .create({
         baseURL: "https://www.googleapis.com/youtube/v3"
       })
@@ -18,17 +23,37 @@ const VideoItem = ({ video }) => {
           id: videoId
         }
       });
+    */
 
-    setViewCount(response.data.items[0].statistics.viewCount);
+    setViewCount(response.data.statistics.viewCount);
+
+    /* Migration: Youtube Video Data to My Json Server 
+    setTimeout(() => {
+      axios
+        .create({
+          baseURL: "http://localhost:3000"
+        })
+        .post(`/videos`, {
+          id: videoId,
+          statistics: response.data.items[0].statistics
+        });
+    }, 1000);
+    */
   };
 
   useEffect(() => {
-    getViewCount(videoId);
+    if (videoId) {
+      getViewCount(videoId);
+    }
   }, []);
 
   return (
     <div className="video-item">
-      <img className="video-item-img" src={videoInfo.thumbnails.medium.url} />
+      <img
+        className="video-item-img"
+        src={videoInfo.thumbnails.medium.url}
+        alt="video"
+      />
       <div className="video-channel-title">{videoInfo.channelTitle}</div>
       <div className="video-item-title">{videoInfo.title}</div>
       <div className="video-item-view-count">{viewCount}</div>

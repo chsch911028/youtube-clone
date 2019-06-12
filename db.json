@@ -1,0 +1,3936 @@
+{
+  "channels": [
+    {
+      "id": "UCZHBZUrLKMoL6FxpvdRzhKA",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5M_DZJaoE91uYZcw1wiwUObe-bI\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 134,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-EayHM6wGOq1Vo5C4ym1hD6gNH4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "enVUqqLmTwM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T09:58:52.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "스타 전프로 김명운 명운영호몽군예훈vs병구재혁도재기석",
+              "description": "Multistreaming with https://restream.io/ 후원링크 구글, 카카오 아이디로 후원 - https://toon.at/donate/636912795869807870 트위치 아이디로 후원 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/enVUqqLmTwM/default_live.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/enVUqqLmTwM/mqdefault_live.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/enVUqqLmTwM/hqdefault_live.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "live"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_lNuiKiA14gbUhviyrKkcac7DoY\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "LsSAANodd00"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T22:00:05.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "멀티가 없어졌는데......경민아..잠깐만..?  [ 이경민 VS 김명운 ]",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/LsSAANodd00/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/LsSAANodd00/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/LsSAANodd00/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5UFgBlUZ4ZKQYq0sOmj724d7PsE\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "hqS6jIPlsTQ"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-10T22:00:06.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "스타 10년해도 모르는 꿀팁 알려드립니다! starcraft tip★",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/hqS6jIPlsTQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/hqS6jIPlsTQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/hqS6jIPlsTQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7wVufsbKeH2kteKFJ6B9h5oo4FU\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "N32ob1ihgP0"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-09T22:08:29.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "저테전 명경기 제조기 갓퀸록! 스타 끝장전 [이영호T vs 김명운]",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/N32ob1ihgP0/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/N32ob1ihgP0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/N32ob1ihgP0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mqSme3sAFGpo6PsxVbFFuXjQQzg\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "yc2dXMSeg7w"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-08T22:00:06.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "시키시는 모든 것 다~ 가능합니다 ^^ ....?",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/yc2dXMSeg7w/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/yc2dXMSeg7w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/yc2dXMSeg7w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4oEAmjUFvn996KjTEB6-JipsT1A\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "WN4toBshIIg"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-07T22:00:02.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "훈수때문에 더이상은 못참겠습니다 ㅡㅡ",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/WN4toBshIIg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/WN4toBshIIg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/WN4toBshIIg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xSEHw0820JMdKzTT1cpwwNPkBho\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "lzbs9sIhlwY"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T21:45:00.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "진짜 이영호는 이길수 있을까..? [이영호VS김명운]",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/lzbs9sIhlwY/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/lzbs9sIhlwY/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/lzbs9sIhlwY/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1XJpiM38T9JUE22NX7XfeVRGvnw\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "yGFLeMlwFp8"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-05T22:00:05.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "기적이 찾아올까요..? [김명운(T) VS 김성현(Z)]",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/yGFLeMlwFp8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/yGFLeMlwFp8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/yGFLeMlwFp8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Zig3JxwI2SeV_iorvutQhm1ubZ4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "CNvTj7DfrfE"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-04T22:00:00.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "팔뚝만한 킹타이거새우 먹어봤습니다! zero&#39;s mukbang [퀸튜브]",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/CNvTj7DfrfE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/CNvTj7DfrfE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/CNvTj7DfrfE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TwyzHyHuaTfAtFy1b_K7Ksl45M8\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "3JnTak-MLrA"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-03T22:00:00.000Z",
+              "channelId": "UCZHBZUrLKMoL6FxpvdRzhKA",
+              "title": "테란을 공중유닛만 뽑아서 잡으라고요~? [퀸튜브]",
+              "description": "구독하기 : http://bitly.kr/4AY3j 각종문의 : kimmyungwun1@naver.com [김명운] 아프리카TV ▷ http://bitly.kr/hQ6KF [김명운] 트위치 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/3JnTak-MLrA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/3JnTak-MLrA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/3JnTak-MLrA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "김명운TV [QUEENTUBE]",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kgLKfv6VP8WNPHaC_0qqHIbtcKQ\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 1128,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sURgmQm1qAsFalNoLvDF4lbPBtk\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "SfZGSeOUOVA"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T07:38:38.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 하이라이트",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/SfZGSeOUOVA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/SfZGSeOUOVA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/SfZGSeOUOVA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vtd8sJnF0AcU96-20ohD6HyT520\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Sh6oZrabioM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T07:32:12.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 7경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Sh6oZrabioM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Sh6oZrabioM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Sh6oZrabioM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xsN79cIhgUbn28e1Y7RdTFiM7q4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "c_bWF70S-Wo"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T07:26:41.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 6경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/c_bWF70S-Wo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/c_bWF70S-Wo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/c_bWF70S-Wo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KLNnAklR7yggk9r-RZrT7S3OXss\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "DQblDS4G3Wo"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T07:17:42.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 5경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/DQblDS4G3Wo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/DQblDS4G3Wo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/DQblDS4G3Wo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9nbsQddOlNbSTvXh9Le-E2d60dw\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "8vNU9cOhEyw"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T07:12:46.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 4경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/8vNU9cOhEyw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/8vNU9cOhEyw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/8vNU9cOhEyw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lENUrMxG_9kAA6Oievlup2ncB2c\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "jJMZtjlprdQ"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T07:00:50.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 3경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/jJMZtjlprdQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/jJMZtjlprdQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/jJMZtjlprdQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4ZoKCNsC08mmi-zvnS3yCaUhCH8\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "a11J98HcFPc"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T06:43:44.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 2경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/a11J98HcFPc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/a11J98HcFPc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/a11J98HcFPc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AMfGQUbk9Jl52XF14eOqWeDbiOw\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Q8Xuzqe5hDI"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T06:19:24.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 준결승 1경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10 준결승전입니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Q8Xuzqe5hDI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Q8Xuzqe5hDI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Q8Xuzqe5hDI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/k7fnCp_dTkBLDL9-NdDJaDQfnwc\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "wiE1p0DqJHk"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-30T07:37:11.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 8주차 하이라이트",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10이 시작되었습니다...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/wiE1p0DqJHk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/wiE1p0DqJHk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/wiE1p0DqJHk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4mIXUQRfPLHwycJkHv_mlLHZ4Kg\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "GvGdAjN8LzU"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-30T07:27:55.000Z",
+              "channelId": "UC2ja61Zku_rw3ZBfDZi8cuQ",
+              "title": "KCM종족최강전 시즌10 8주차 8경기",
+              "description": "김철민 #종최 #스타 #종족최강전 #KCM 캐스터 김철민과 스타크래프트 리마스터로 함께하는 KCM종족최강전! 종족최강전 시즌 10이 시작되었습니다...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/GvGdAjN8LzU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/GvGdAjN8LzU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/GvGdAjN8LzU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "KCM TV",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCFCtZJTuJhE18k8IXwmXTYQ",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dNqN1O9a2U0jCo7YhHdeOmsLDjs\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 9337,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XHB2u4HxcBYA81QQX5GUkGnKV0A\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "DxRuhmqoDpk"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T08:03:17.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "[극한직업] 파키스탄 선박해체공 1부",
+              "description": "파키스탄 선박해체공 1부, (2012.11.20) 공식홈페이지 : http://home.ebs.co.kr/limit/index.html 극한직업을 통해 치열한 직업정신을 HD 고화질로 전하는 리얼다큐...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/DxRuhmqoDpk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/DxRuhmqoDpk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/DxRuhmqoDpk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zoYtcy5gOxNxpUq-5RUsNPdULSs\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Dbxn4a5Rf_s"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T08:03:19.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "[극한직업] 파키스탄 선박해체공 2부",
+              "description": "파키스탄 선박해체공 2부, (2012.11.21) 공식홈페이지 : http://home.ebs.co.kr/limit/index.html 극한직업을 통해 치열한 직업정신을 HD 고화질로 전하는 리얼다큐...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Dbxn4a5Rf_s/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Dbxn4a5Rf_s/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Dbxn4a5Rf_s/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ltEpNVRUtEgd5WD2VDR8va16iOM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "IOXG2LkeIB4"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T05:00:02.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "[World Theme Travel] CotedIvoire Reviving - Part2 The Heritage of Senufo",
+              "description": "CotedIvoire Reviving - Part2 The Heritage of Senufo (2013.10.15) ▷Subscribe to the EBS Docu Channel here :) http://www.youtube.com/subscription_c... ▷For ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/IOXG2LkeIB4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/IOXG2LkeIB4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/IOXG2LkeIB4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xMnywwARrtcmqmsREs-Q-SknS_E\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Qprid2A9CjY"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T00:33:46.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "다큐 시선 - 양육비 왜 안주십니까?",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/view/main 양육비 왜 안주십니까?, 이혼 가정의 아이 양육은 양육자만의 문제다? 양육비 지급 이행률은 약 30%....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Qprid2A9CjY/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Qprid2A9CjY/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Qprid2A9CjY/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wDTyUVI2C7OJMseCFmnq8z8CmrM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "RB0ZfRP2Wzo"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T11:20:05.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "다문화 고부열전 - 재혼 16년, 절반의 행복_#003",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/gobu 재혼 16년, 절반의 행복, 가족이란 이름으로 한 가정 안에 있는 두 여인, 고부 고부간의 갈등은 어디에나...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/RB0ZfRP2Wzo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/RB0ZfRP2Wzo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/RB0ZfRP2Wzo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CN-VbotzqifqasF9gQ57rKmgZgQ\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "L40HAu2BjGw"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T11:17:37.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "글로벌 아빠 찾아 삼만리 - 재혼한 아빠와 필리핀의 세남매_#003",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/finddad/main 재혼한 아빠와 필리핀의 세남매, 시화공단에서 일하고 있는 필리핀 아빠 제시. 세 남매들 키우던...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/L40HAu2BjGw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/L40HAu2BjGw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/L40HAu2BjGw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j5EQQQqRDXj7JMlci05UMq57fjI\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "oj1JtOXVuEo"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T11:16:37.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "글로벌 아빠 찾아 삼만리 - 재혼한 아빠와 필리핀의 세남매_#001",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/finddad/main 재혼한 아빠와 필리핀의 세남매, 시화공단에서 일하고 있는 필리핀 아빠 제시. 세 남매들 키우던...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/oj1JtOXVuEo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/oj1JtOXVuEo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/oj1JtOXVuEo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LyDGMCWYckLshJdKCCsxYo62EVk\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "HXBrF8fcYvw"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T11:14:52.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "세계테마기행 - 낭만 동유럽 2부- 낯선 초대 헝가리_#003",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/theme 낭만 동유럽 2부- 낯선 초대 헝가리, 부다페스트, 바람과 함께 달리는 호르토바지 목동 , 헝가리의 매운...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/HXBrF8fcYvw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/HXBrF8fcYvw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/HXBrF8fcYvw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/blJ7EO__04CfEWNNH_pDyT847-I\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "x7r7QdGIakM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T11:11:06.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "한국기행 - Korea travel_섬마을 밥집 2부- 그 섬에서 뭐 먹지?_#002",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/ktravel 섬마을 밥집 2부- 그 섬에서 뭐 먹지?, 통영시 욕지면에 속한 섬 연화도, 그리고 연화도와 다리로 연결된...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/x7r7QdGIakM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/x7r7QdGIakM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/x7r7QdGIakM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1SGKRVfinYj2Mp-CmKu1V90OQOs\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "yPQqw0_5slc"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T11:10:48.000Z",
+              "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+              "title": "한국기행 - Korea travel_섬마을 밥집 2부- 그 섬에서 뭐 먹지?_#001",
+              "description": "공식 홈페이지 : http://home.ebs.co.kr/ktravel 섬마을 밥집 2부- 그 섬에서 뭐 먹지?, 통영시 욕지면에 속한 섬 연화도, 그리고 연화도와 다리로 연결된...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/yPQqw0_5slc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/yPQqw0_5slc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/yPQqw0_5slc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EBSDocumentary (EBS 다큐)",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCLvhr40dgoBcV4XBlOhauNw",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zhAOvYLxjxxcd5o50joQ25pnlRc\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 1779,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bmd_ZHr8zTy5XSH6dbU8016hf1k\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "kbgc0foCj7I"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T09:15:00.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "칼리 핸슨 (Carlie Hanson) - WYA 가사 번역 뮤직비디오",
+              "description": "칼리 핸슨 (Carlie Hanson) - WYA 가사 번역 뮤직비디오 *음원듣기 https://WMK.lnk.to/tdjTr.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/kbgc0foCj7I/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/kbgc0foCj7I/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/kbgc0foCj7I/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5C_1Qmarp5W-IvRzZWWlHRcIEe0\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "05bdqRGsyBg"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T03:15:01.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "피츠 앤 더 탠트럼스 (Fitz and the Tantrums) - 123456 + HandClap (Live @ 서울재즈페스티벌 2019)",
+              "description": "피츠 앤 더 탠트럼스 (Fitz and the Tantrums) - 123456 + HandClap (Live @ 서울재즈페스티벌 2019) w/ Lia Kim, May J Lee of 1MILLION Dance Studio *음원듣기 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/05bdqRGsyBg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/05bdqRGsyBg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/05bdqRGsyBg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GZWmYOxHno_mtT7TlWKvKwnNCS8\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "lZ1MQGkuLmM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T03:00:05.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "솔비 (Solbi) - Violet [Music Video]",
+              "description": "지난 2017년부터 매년 'Hyperism(하이퍼리즘)' 컬러 시리즈 앨범을 발매해왔던 '솔비' 그 시리즈의 마지막 작품 \"Violet\". 'Violet'은 'Hyperism' 컬러 시리즈의...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/lZ1MQGkuLmM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/lZ1MQGkuLmM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/lZ1MQGkuLmM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cgqQ5RRBw5ohx4EBJr042f16wVM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "pGb4i8AoRVg"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T09:00:07.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "딕펑스 (Dickpunks) - Bicycle Man [Teaser 2]",
+              "description": "록 트렌드를 이끌어갈 밴드 '딕펑스 (Dickpunks)의 새 싱글 \"Bicycle Man\" 2019.06.13 12PM #딕펑스 #Dickpunks #Bicycle Man.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/pGb4i8AoRVg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/pGb4i8AoRVg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/pGb4i8AoRVg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aaiTy6VCjp9hroQ2Ty5KKsdjwR0\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "nzzEwMJxPgE"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T07:34:07.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "에드 시런 &amp; 저스틴 비버 (Ed Sheeran &amp; Justin Bieber) - I Don&#39;t Care 가사번역 by 영화번역가 황석희",
+              "description": "에드 시런 & 저스틴 비버 (Ed Sheeran & Justin Bieber) - I Don't Care 가사번역 by 영화번역가 황석희 *음원듣기 https://WMK.lnk.to/NO6.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/nzzEwMJxPgE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/nzzEwMJxPgE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/nzzEwMJxPgE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mt5zUTZ7tgP8bZ_11p_jZodOwnI\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "ZW7L8uJlrqg"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T03:00:03.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "강전한 (Kang Jeon Han) - 코끝에 맴돌아 [Special Clip]",
+              "description": "차가웠던 기억이 따뜻한 추억이 되어 희미해지다 잊혀지는 건 당연하지만 한편으론 마음 한 구석에 조용히 잔향처럼 남아 코끝을 간지럽히기도...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/ZW7L8uJlrqg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/ZW7L8uJlrqg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/ZW7L8uJlrqg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pxNiGSbm_uqxhqjdm95UeLQ0Z6U\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "o5nabO_IZfs"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-10T07:01:54.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "엔분의일 (1/N) - LOVE IS WONDERFUL [Teaser]",
+              "description": "엔분의일 (1/N) - LOVE IS WONDERFUL 2019.06.11 12pm.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/o5nabO_IZfs/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/o5nabO_IZfs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/o5nabO_IZfs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ebfuD9d2U3ghqISc2gSEtx7VETM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Y-G5Gryv_mM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-10T03:15:01.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "바지 (Bazzi) - Paradise 가사번역 by 영화번역가 황석희",
+              "description": "바지 (Bazzi) - Paradise 가사번역 by 영화번역가 황석희 *음원듣기 https://WMK.lnk.to/JBMqh.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Y-G5Gryv_mM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Y-G5Gryv_mM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Y-G5Gryv_mM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4qmlvz2UMkKqBhu9bZnItzByYW8\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "lXxmaVCJ_Rg"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-10T03:00:02.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "솔비 (Solbi) - Violet [Teaser]",
+              "description": "솔비 - \"Violet\" 2019.06.12 12:00pm https://www.instagram.com/solbibest/",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/lXxmaVCJ_Rg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/lXxmaVCJ_Rg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/lXxmaVCJ_Rg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wuZr5X1VEnCa6sAj0k5BYv464yc\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "kNYA3H1jSSs"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-09T09:00:05.000Z",
+              "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+              "title": "마크툽 (MAKTUB) - 오늘도 빛나는 너에게 To You My Light (Feat 이라온) [Music Video]",
+              "description": "'우리 모두는 누군가의 빛이라는걸' http://www.instagram.com/maktub_world http://www.facebook.com/maktubcompany.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/kNYA3H1jSSs/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/kNYA3H1jSSs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/kNYA3H1jSSs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCNymqCXr3sxL8dnmO_jScuA",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cw_xh4iJz7wf321JGSpmsvPO4QQ\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 26,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZQUuzoRmhtoHNOfmH1f3WfvRlo8\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "oL3iDMeq5z8"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T16:38:54.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "[스타 끝장전 S1-5] 김성현T vs 장윤철P 9전제 풀매치",
+              "description": "스타 끝장전 9전제 풀매치 이번 경기의 승자는?",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/oL3iDMeq5z8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/oL3iDMeq5z8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/oL3iDMeq5z8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LngVtvx3R600ggd63n3jis7LkRs\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "U9MX9W3F80Q"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-09T17:17:51.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "[헤이딜러 스타 끝장전 S1-4] 이영호T vs 김명운Z 9전제 풀매치",
+              "description": "스타크래프트 빅이벤트! 끝날때까지 끝난게 아니다! 8:0 스코어에서도 마지막 세트까지 진행하는 끝장전! 이영호는 과연 연승을 해낼 수 있을 것인가?",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/U9MX9W3F80Q/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/U9MX9W3F80Q/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/U9MX9W3F80Q/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qrKIwgB8gDnMDP7xq59JXhJZv-0\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "nUNnVIQMsSs"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-08T19:43:10.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "(주)중계진 배틀그라운드 솔로매치 DAY 3 (김동준,박상현,김지수)",
+              "description": "김동준 박상현 지수보이의 배틀그라운드 솔로매치 DAY 무당 해설들의 향연 과연 오늘도 1~2등을 맞출 수 있을까? 중계진의 개인 방송의 재미 함께...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/nUNnVIQMsSs/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/nUNnVIQMsSs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/nUNnVIQMsSs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/L9-l3gEecat1lf7EMDX3KcMZ4So\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "_r9CW2NLXuE"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T08:23:40.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "배그 솔로 매치 우승자를 맞추면 별풍선 ?????개 대박 미션!",
+              "description": "(주)중계진 배틀그라운드 솔로매치 DAY 1 하이라이트.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/_r9CW2NLXuE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/_r9CW2NLXuE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/_r9CW2NLXuE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/T7yuWotcSF6D6jVrXumb9cUaqsM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "ZuTVwrmEUQU"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-01T21:44:05.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "(주)중계진 배틀그라운드 솔로매치 DAY 2 (김동준,박상현,김지수)",
+              "description": "(주)중계진 배틀그라운드 솔로매치 DAY 2 (김동준,박상현,김지수)",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/ZuTVwrmEUQU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/ZuTVwrmEUQU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/ZuTVwrmEUQU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7CkcRRWgTHtB356TRt2vP9q_9bM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "FDYe2BKNV4M"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-28T18:28:39.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "[스타 끝장전 S1-3] 이영호T vs 변현제P 9전제 풀매치",
+              "description": "1set 6:48 // 2set 31:17 // 3set 52:59 4set 1:14:29 // 5set 1:37:07 // 6set 1:50:47 7set 2:12:49 // 8set 2:26:05 // 9set 2:41:30 ??? - 2:07:52.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/FDYe2BKNV4M/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/FDYe2BKNV4M/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/FDYe2BKNV4M/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GSqSOTX7tQ7TfHWdKBdEHL0O19Q\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "QosJf6e0z14"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-25T19:54:08.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "(주)중계진 배틀그라운드 솔로매치 DAY 1 (김동준,박상현,김지수)",
+              "description": "주식회사 중계진 김동준,박상현,지수보이 PKL 중계진의 개인방송 컨텐츠.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/QosJf6e0z14/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/QosJf6e0z14/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/QosJf6e0z14/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/INDXc285qH5nvgwL8L4FLJ0st2k\"",
+            "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PLFquu03WUN0hRVAq3cCgvtn6qEDEoaYzD"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-25T17:27:35.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "2019 주식회사 중계진 배그 PUBG 솔로 매치 김동준x박상현x지수보이",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/QosJf6e0z14/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/QosJf6e0z14/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/QosJf6e0z14/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dmEIDiYl6lYQ-Fh3ZA0AKL8d6G0\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "le9kBoU07zk"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-21T17:14:20.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "[스타 끝장전 S1-2] 이영호T vs 김민철Z  9전제 풀매치",
+              "description": "1set 7:53 // 2set 18:06 // 3set 34:55 4set 38:34 // 5set 49:05 // 6set 1:05:12 7set 1:10:40 // 8set 1:23:43 // 9set 2:03:10.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/le9kBoU07zk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/le9kBoU07zk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/le9kBoU07zk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/L4SKAOi_IRv5X1LEk7v-SzE5Tfo\"",
+            "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PLFquu03WUN0jByuHagZgtQDvaZPprqRhe"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-16T04:52:08.000Z",
+              "channelId": "UCNymqCXr3sxL8dnmO_jScuA",
+              "title": "2019 주식회사 중계진 스타 끝장전 S1 이승원x박상현x임성춘",
+              "description": "스타크래프트 리마스터 끝장전 8:0이 나와도 9세트 까지 치르는 궁극의 경기 박상현,이승원,임성춘과 함께 하는 주식회사 중계진 프로젝트 1.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/wnL9G806nOg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/wnL9G806nOg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/wnL9G806nOg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "주식회사 중계진",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCFOixeB9gbedVi6uwnsfHMQ",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rNc5s5FXZBypWp49aPBbwgZfLS0\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 60,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/i5yk1rsVsaDq2ezY4mtpWZKloaw\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "UPd3sLL0Tdw"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-16T14:59:53.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "은하수를 따라가는 또ㅇ...",
+              "description": "안녕하세요 1분과학입니당 bring me Thanos! 우주 어느 곳에 엄청난 양의 물질이 모여 강력한 중력이 생기고, 이 중력의 힘은 원자를 찢었다 붙이면서...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/UPd3sLL0Tdw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/UPd3sLL0Tdw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/UPd3sLL0Tdw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dDbFsWGFv4a0bTkeOE43CtkPlkI\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "twCdAVdxVec"
+            },
+            "snippet": {
+              "publishedAt": "2019-04-05T11:11:50.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "2019년 가장 재미있는 축제!!",
+              "description": "2019 대한민국 과학축제! 많이 공유해주세요! ^^ ☆ 1분과학 멤버십 https://www.youtube.com/channel/UCFOixeB9gbedVi6uwnsfHMQ/join ☆ 1분과학 모든 영상 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/twCdAVdxVec/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/twCdAVdxVec/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/twCdAVdxVec/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HXqOQ5FHyk5NAsCN082iPqtNFeU\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "W_DDCyY6xyg"
+            },
+            "snippet": {
+              "publishedAt": "2019-03-30T14:35:31.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "지금 우주는... 팽창하고 있다!!",
+              "description": "내 가슴도 팽창 중 1900년대 초 천문학계의 가장 큰 관심사 중 하나는 밤하늘을 뒤덮는 미스터리한 먼지 덩어리에 있었다. 망원경으로 하늘을 바라보...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/W_DDCyY6xyg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/W_DDCyY6xyg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/W_DDCyY6xyg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1c127eH4vUqbgxFWLuZWGVuqpLg\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "78l3YpfAasI"
+            },
+            "snippet": {
+              "publishedAt": "2019-03-17T04:30:11.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "안드로메다 은하의 실제 모습...",
+              "description": "이 영상에서는 우리 은하에서 가장 가까운 이웃 은하, 하지만 250만 광년 떨어진, 안드로메다의 실제 모습을 보여줄 것입니다. 허블우주망원경으로...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/78l3YpfAasI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/78l3YpfAasI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/78l3YpfAasI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gfZcWJJkulV4VtcRAwPUWjgQc3w\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "2KcCPIbXKog"
+            },
+            "snippet": {
+              "publishedAt": "2019-02-21T12:17:34.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "코끼리 아저씨는 코만 손이 아니래~^^",
+              "description": "그대는 코끼리의 모습에서 무엇을 보는가? 나는, 나의 아빠를 본다. #코끼리 ☆ 1분과학 멤버십 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/2KcCPIbXKog/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/2KcCPIbXKog/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/2KcCPIbXKog/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/V4QtE3Rg53GjuT0UqB2mX04Drs4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Vur832hIn0k"
+            },
+            "snippet": {
+              "publishedAt": "2019-02-09T13:45:01.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "우주 끝을 촬영하면 보이는 것..!!",
+              "description": "미국의 작가 폴 호켄은 이런 말을 했었다. “하늘에 별이 천년에 한 번 나타났다면, 사람들은 모두 모여 별을 바라보고 황홀경에 빠졌을 것이다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Vur832hIn0k/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Vur832hIn0k/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Vur832hIn0k/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oPkoh4A40BbWhN57zMRg1rlu_lA\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "SBpl3ThhhaI"
+            },
+            "snippet": {
+              "publishedAt": "2019-01-07T13:39:35.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "다 함께 만드는 신",
+              "description": "구독자 신이시여, 게을러 터진 1분과학을 용서하소서 이 세상에 인간보다 더 똑똑한 동물이 어디 있나? 이 세상에 나보다 나를 더 잘 아는 존재가...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/SBpl3ThhhaI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/SBpl3ThhhaI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/SBpl3ThhhaI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YaTNX3Kk2z86GvxEDPfMysm647M\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "x4Btgurexb4"
+            },
+            "snippet": {
+              "publishedAt": "2018-09-18T12:11:35.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "우주가 여러 개다?! (다 중 우 주)",
+              "description": "엄청나게 많은 우주들... Multiverse! 행복하세요 ^^ 어느 이름 모를 지역, 이 호수에 사는 물고기들에게 이 호수는 우주와 같다. 호수 바깥은 본 적도...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/x4Btgurexb4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/x4Btgurexb4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/x4Btgurexb4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MhDwaIXtzegOTO9i3Tn1MJt5pJA\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "UPsNcaF7zIQ"
+            },
+            "snippet": {
+              "publishedAt": "2018-05-31T13:08:34.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "무엇이 우리를 &quot;행복&quot;하게 만드는가!",
+              "description": "여러분 행복하세요 ^.^ (스크립트) “당신은 왜 사나요?” 라고 물으면 사람들은 행복해지기 위해 산다고 말할 것이다. 그런데 행복해지기는...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/UPsNcaF7zIQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/UPsNcaF7zIQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/UPsNcaF7zIQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RjrOl_Z5kYD9K1sCx9_pVszUN40\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "x_Kijtg27tA"
+            },
+            "snippet": {
+              "publishedAt": "2018-03-11T10:24:08.000Z",
+              "channelId": "UCFOixeB9gbedVi6uwnsfHMQ",
+              "title": "수란 무엇인가! (우주는 수로 이루어져 있다!?)",
+              "description": "이번 영상은 카오스재단에서 열린 옥스퍼드 대학교 수학과 김민형 교수의 강연을 참조하여 제작하였습니다. [ 2018 봄 카오스 강연 \"수학\" 신청하기!...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/x_Kijtg27tA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/x_Kijtg27tA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/x_Kijtg27tA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "1분과학",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCMVC92EOs9yDJG5JS-CMesQ",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ldHPeKMqZDWyT_UsPU5k2lblIyI\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 2164,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3r2BADA-8P89Yn-zcjDzhQuOgZU\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "DcaDUWmZ7T4"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T10:00:05.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "엄마한테 혼날 때 조금 덜 혼나는 방법",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/DcaDUWmZ7T4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/DcaDUWmZ7T4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/DcaDUWmZ7T4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yqS-OLY1EKOsbn_4h49Fveg24Mo\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "O46OKqWr94A"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T12:02:36.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "끊임없는 악플 때문에 결국 망가진 23살 유튜버",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/O46OKqWr94A/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/O46OKqWr94A/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/O46OKqWr94A/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IaRqgZVyY2U7xi25mDdnu_KgP4M\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "fthNuZZpU1s"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-09T10:20:59.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "얘들아 미안해..ㅋㅋㅋㅋㅋ 깜짝 팬미팅으로 팬 30명 모아서 낚시하기 ㅋㅋ",
+              "description": "부산사랑 양팡사랑! https://m.youtube.com/user/BTOrganization (부산관광공사 유튜브) 구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/fthNuZZpU1s/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/fthNuZZpU1s/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/fthNuZZpU1s/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6kI9L5fQacItAecKOh_tQeKiHA0\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "8_wQSSTaOP8"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-08T10:25:27.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "이건 제목을 어떻게 지어야 하지..?",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/8_wQSSTaOP8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/8_wQSSTaOP8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/8_wQSSTaOP8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AjWbO6qLdDJbtxhoeq8opLlNjEg\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "nQdvnCKdX5M"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-07T09:25:57.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "여러분들 저는 사실..",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/nQdvnCKdX5M/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/nQdvnCKdX5M/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/nQdvnCKdX5M/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ASLppqHh382k4CWtFJGC5G3xHHk\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "3g5GN7HQXU4"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T10:49:42.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "사이비에 빠진 양팡",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/3g5GN7HQXU4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/3g5GN7HQXU4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/3g5GN7HQXU4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SDvAMxFjPlCYAuseUtCJjk4tf1w\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "RBIRdBRsP7c"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-05T11:58:47.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "강식당2 꽈트로튀김 만들기",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/RBIRdBRsP7c/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/RBIRdBRsP7c/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/RBIRdBRsP7c/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vCXBLjoW7vDrsOoHlYkqZp6Kq2c\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7U8qsxkMmYo"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-04T08:45:50.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "양팡 화장품을 출시했습니다",
+              "description": "양팡 화장품 출시! 6월5일 오전 10시부터 https://blog.naver.com/yangpangshop 에서 판매 시작! 화장품 런칭에 대해서 여러분들의 의견이 정말 많네요! 저는...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7U8qsxkMmYo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7U8qsxkMmYo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7U8qsxkMmYo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9viI5GBLY2mB5nvUUdAqSswIAqA\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "dkyUGPiv4JU"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-02T12:16:29.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "방송이 꺼진, 양팡 가족의 리얼100% 일상을 공개합니다.",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/dkyUGPiv4JU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/dkyUGPiv4JU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/dkyUGPiv4JU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KRtbHHhfwCiQXU_QguHmehv8VzU\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "TH86ovXGc84"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-01T12:01:43.000Z",
+              "channelId": "UCMVC92EOs9yDJG5JS-CMesQ",
+              "title": "사람들이 얼굴 갖고 자꾸 놀려요ㅠㅠ",
+              "description": "구독하기 : https://goo.gl/4JUQn2 스폰문의 : eunz1nara@gmail.com 무삭제 풀버전 채널 : https://goo.gl/NjeAzk - http://bit.ly/yangpang : 양팡 아프리카TV 개인 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/TH86ovXGc84/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/TH86ovXGc84/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/TH86ovXGc84/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "양팡 YangPang",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCaJdckl6MBdDPDf75Ec_bJA",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nOK09CtPN7VMd9hMt-2d1dqORQg\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 126,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/36a05XzgoZeXZ2F1W2ZOso49uX0\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "KPn9ID8jbuk"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-12T05:04:23.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "(EP.39) 차 살때, 소득보다 중요한 것 / 창업다마고찌",
+              "description": "현대인에게 필수품인 차, 차 살때 고려해야 할 점을 저희끼리 얘기해봤습니다.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/KPn9ID8jbuk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/KPn9ID8jbuk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/KPn9ID8jbuk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-fYDzM-SR1YKemb_p_lx53BY7h4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "cH4JKgmPVKk"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-08T23:06:57.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "포기하지 않는 법",
+              "description": "인스타그램 : https://www.instagram.com/sinsaimdang.official 인생의 99%는 일상과 평범으로 가득합니다. 소득 천만원 정도의 수준은 1%의 열정 가득한 순간으로...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/cH4JKgmPVKk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/cH4JKgmPVKk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/cH4JKgmPVKk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/foOaMc-qmY4azqayP4EUlY-00Cg\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "NuVxCZyLlQA"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T17:04:50.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "매우 현실적인 돈 만드는 방법 -하-",
+              "description": "월 순익 1000만원 올리는 실천법 2 생각, 구조에 이어 실천 방법에 대해 더 구체적으로 설명했습니다. 필요하신분들은 보시고 고수나 부자분들은...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/NuVxCZyLlQA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/NuVxCZyLlQA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/NuVxCZyLlQA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2m-CcPnGaPn2MRrskrThkMxWZxA\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "bBjpeYrKMgM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-04T02:04:30.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "투자 판단을 도울 최고의 로직",
+              "description": "운용방식과 이자지급방식에 따라 엄청나게 많은 재테크의 선택안들이 존재합니다. 이 선택안들중에 어떤것을 선택해야 옳은지 기준에 대해서...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/bBjpeYrKMgM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/bBjpeYrKMgM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/bBjpeYrKMgM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8AIY658nnixa-Nwq4djExCoKK2s\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "cDDs00v-5zI"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-01T20:38:40.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "매우 현실적인 돈 만드는 방법 -상-",
+              "description": "월 순익 1000만원 올리는 실천법 생각, 구조에 이어 실천 방법에 대해 더 구체적으로 설명했습니다. 필요하신분들은 보시고 고수나 부자분들은...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/cDDs00v-5zI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/cDDs00v-5zI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/cDDs00v-5zI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/X0p4LYmppPXXiNrUJGz42xgQQvs\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "6EMI5SnLxk8"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-29T22:12:57.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "&#39;이런&#39;분은 절대 창업하지 마세요",
+              "description": "최악의 사업하면 안되는 사람은 누굴까? 남탓하는 승부사다. 지금 다니는 회사의 사장이 그렇다면 바로 이직하길 바랍니다.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6EMI5SnLxk8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6EMI5SnLxk8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6EMI5SnLxk8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1DFGErD38DQ0FxKfTeH3ZkHark4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7sEyLvAGbls"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-26T20:43:37.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "가난에서 빠르게 탈출하는 방법",
+              "description": "큰 돈이 아닌 월 천만원 정도의 소득을 목표로 할때 가장 큰 장애물은 돈을 버는 것이 특별한 사람들의 이야기라고 생각하는것이다. 그것이 돈을...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7sEyLvAGbls/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7sEyLvAGbls/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7sEyLvAGbls/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iDFGIm3MFPYkx4nMu3ie0iCmDqc\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "sj2YHLExJ38"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-24T21:43:15.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "(EP.38) 다마고찌에게 주는 마지막 소싱 상품, 이게 마지막이야! / 창업다마고찌",
+              "description": "가성비필터: https://hoy.kr/j33jU 창업다마고찌와 함께 상품 개발단계에 있는 필터에 대해 논의 하고 접근하여 성능테스트와 판매까지 해보았습니다....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/sj2YHLExJ38/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/sj2YHLExJ38/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/sj2YHLExJ38/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lkehwjSWeY9M3pwtRlwcbDa_j1Y\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "ZJ7jUtizT3w"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-23T20:43:20.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "광고하는법 , 광고효과에 대한 신경과학적 접근 / 광고와 뇌",
+              "description": "광고하는법 , 광고효과에 대한 신경과학적 접근 / 광고와 뇌.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/ZJ7jUtizT3w/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/ZJ7jUtizT3w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/ZJ7jUtizT3w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_9cLHC-rFqRTbovJEMOddH75UpA\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "cJ_Oi47p_dc"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-21T19:46:07.000Z",
+              "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+              "title": "돈 벌고 싶다면 당장 버려야 하는 것",
+              "description": "선택은 기준이 있어야 할 수 있는 것이다. 아무런 기준점도 없다면 위도 아래도 앞도 뒤도 없다. 기회비용을 생각하지 말고 지금 바로 한가지...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/cJ_Oi47p_dc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/cJ_Oi47p_dc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/cJ_Oi47p_dc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "돈버는방법, 신사임당",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCzVxelIsmKDrNQTUHpzokQg",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rMacI-XyQlBbiwP1xNoZLEeA7gY\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 40,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/J9cJzjJW4Nwz08_-vXhZE4XUgQA\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "htk6Ehg9BvM"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-31T07:00:08.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "미중 무역전쟁 전망, 중국 붕괴 이유 | 부동산분석왕 경제 이슈",
+              "description": "미중 무역전쟁의 전망을 알아본다! 미중 무역전쟁이 단순 관세 전쟁을 벗어나 신냉전으로 진입을 예고 하고 있다. 더불어 우리나라 경제는 위기감이...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/htk6Ehg9BvM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/htk6Ehg9BvM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/htk6Ehg9BvM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Em-DKEvB-_S6RgkHNnQl_ozI9jc\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "1oy_X5BErqA"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-19T12:39:31.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "한국 부동산 전망 (붕괴 중인 대한민국 제조업과 부동산 폭망) | 부동산분석왕 강의",
+              "description": "대한민국을 하나 둘 빠져나가는 제조업! 한국 부동산 전망은 과연 어떻게 될까? 2019 청년실업 고착화, 월급인상 장기 정체 대한민국 성장 정체...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/1oy_X5BErqA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/1oy_X5BErqA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/1oy_X5BErqA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ybdh2My8kjypHwIFpvyRVO2Y2ss\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "T0iz5pP2KW8"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-13T22:51:39.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "한국경제 위기 직면! 미중 패권전쟁 트럼프 선전포고! | 부동산분석왕 강의",
+              "description": "한국경제가 위기에 직면했다. 트럼프가 기업들에 말했다 탈 중국하라고! 단순한 미중 무역전쟁을 넘어섰다. 미중 패권전쟁의 서막을 알리는 발언!...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/T0iz5pP2KW8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/T0iz5pP2KW8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/T0iz5pP2KW8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_imTCnCRFZVgUOL1HazRCkHaOY4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "S43OykoIgqM"
+            },
+            "snippet": {
+              "publishedAt": "2019-05-03T08:00:02.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "부동산 가격 상승하는 3가지 원리 | 부동산분석왕 강의",
+              "description": "부동산분석왕 이 생각하는 부동산 가격이 오르는 원리는 3가지가 있다 첫째, 둘째, 셋째! 많은 사람이라 하락할 거라 예상하지만 하락 뒤에는...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/S43OykoIgqM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/S43OykoIgqM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/S43OykoIgqM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/d9lEwvFBZrYcjKwE6oPpAwE5jZE\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "q0Z2R8CLGko"
+            },
+            "snippet": {
+              "publishedAt": "2019-04-12T09:00:07.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "너무 빠른 인구감소! 충격적인 부동산 전망  | 부동산분석왕 강의",
+              "description": "충격적인 부동산 전망! 2019년 통계청 발표에 따르면 2019년을 인구 자연감소의 해로 보고 있다. 2029년 부터 감소 할 것으로 전망했지만 3년만에...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/q0Z2R8CLGko/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/q0Z2R8CLGko/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/q0Z2R8CLGko/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/q-96Chiy5_T9STcPr0ZoEMpLL10\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "w3LQWEE2UxY"
+            },
+            "snippet": {
+              "publishedAt": "2019-03-26T12:38:54.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "일본 부동산 폭락 잃어버린 20년! 일본이 망한 진짜 이유 1부 | 부동산분석왕 강의",
+              "description": "2부 영상 보러가기 https://vimeo.com/ondemand/boo1 (총 50분 분량) Vimeo 결제방법 https://blog.naver.com/bbw8888/221497658992 [본 영상은 경제, 경영학 비 ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/w3LQWEE2UxY/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/w3LQWEE2UxY/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/w3LQWEE2UxY/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eK_8lczCvJDZoSlZ9wY5SZmijfI\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "NHYCSaSRA2c"
+            },
+            "snippet": {
+              "publishedAt": "2019-02-19T12:53:17.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "일본 부동산 폭락 붕괴! 터지는 한국 부동산 거품!? [몹시 자세한 설명]| 부동산분석왕 강의",
+              "description": "일본 부동산 폭락은 왜 일어 났을까? 일본 부동산 하락이 발생한 진짜 이유는 뭘까? 일본 부동산 버블이 꺼진 그 배후에는 누가 있었을까? 대한민국...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/NHYCSaSRA2c/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/NHYCSaSRA2c/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/NHYCSaSRA2c/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DR-cQizlVu5S6uDAykw06eQjHCI\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "ln0bfIT-ABU"
+            },
+            "snippet": {
+              "publishedAt": "2019-01-26T13:50:23.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "부동산 가격 하락하는 이유, 부동산 하락 전망 할 수 밖에 없는 이유 | 부동산분석왕 투자 강의",
+              "description": "부동산 폭락론에 대해 말들이 많다. 하지만 부동산 하락을 전망하는 핵심이 여기에 있다. 부동산 가격이 왜 하락하는지 몹시 단순 명쾌하게 설명한...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/ln0bfIT-ABU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/ln0bfIT-ABU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/ln0bfIT-ABU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_eLLzm0DDKNR-dhSNekQ8c93QE4\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "0l0e_me96hw"
+            },
+            "snippet": {
+              "publishedAt": "2019-01-21T09:21:41.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "서울 아파트 끝물??? 노도강 아파트 실거래 매매가 하락 이유 분석! | 부동산분석왕의 투자 타이밍 분석",
+              "description": "서울 아파트의 끝물이라 불리는 노도강 매매가 분석! 네이버 부동산 호가는 여전히 높지만 아파트 실거래가는 10% 하락했다. 강남3구, 마용성, 노도강...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/0l0e_me96hw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/0l0e_me96hw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/0l0e_me96hw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/95NB51nzWsuAsgleP1p3gGu2t_A\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "_Xcehix4m9M"
+            },
+            "snippet": {
+              "publishedAt": "2019-01-19T07:59:19.000Z",
+              "channelId": "UCzVxelIsmKDrNQTUHpzokQg",
+              "title": "서울 아파트 매매 거래절벽! 집값 2억 9천 하락해도 아무도 안사! | 부동산분석왕 부동산 시황 분석",
+              "description": "2019년 새해 서울 아파트 거래량 완전 전무 상태!!! 부동산 거래 절벽 사태!! 집값 2억 9천만원이 하락 했음에도 물건은 쌓여 있는데 아무도 사지도...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/_Xcehix4m9M/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/_Xcehix4m9M/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/_Xcehix4m9M/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "부동산분석왕 TV",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+      "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eCuZIvQ4LR9LGadNZeyczwl9aUs\"",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "KR",
+        "pageInfo": {
+          "totalResults": 61,
+          "resultsPerPage": 10
+        },
+        "items": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2MFB5kD7nEKxkZvUpXURPwvZ8DM\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "bWSqWhP0Cf4"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-11T21:00:06.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "트럼프의 관세 폭탄 나비효과와 투자에 관한 소견 - 베트남과 인도",
+              "description": "트럼프는 천재인가? 그렇다. 트럼프는 10수, 그 이상을 바라보고 판을 이끌어가고 있다. 중국에 대한 관세 폭탄은 단순히 관세 폭탄 그 이상의 의미를...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/bWSqWhP0Cf4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/bWSqWhP0Cf4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/bWSqWhP0Cf4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JxeRSU1TBZyx-wG8mtZ-4pf8IwY\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "XEslS14Obmo"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-10T16:31:26.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "(2편) 무역전쟁과 4차산업혁명이 만드는 부의 기회. 준비하는 사람만이 부(富)를 취할 수 있다.",
+              "description": "미국과 중국의 무역 전쟁이 장기화되고 있습니다. 트럼프는 절대 무역 전쟁을 일찍 끝내지 않을 것입니다. 트럼프의 목적은 단순히 '무역 협상'을...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/XEslS14Obmo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/XEslS14Obmo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/XEslS14Obmo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FSDfeukD3bgEj84yPE-DZ4KGNys\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "OW2RswJU0bk"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-09T12:06:46.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "부자가 될 기회, 4차 산업혁명 버블 올까? 과거 버블 시기 사례 고찰.",
+              "description": "지금이 '버블'이라고 이야기하는 사람들이 있습니다. 과연, 지금이 버블일까요? 4차 산업혁명 버블과 미국의 빅픽처를 대비해야합니다. 과거, 버블...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/OW2RswJU0bk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/OW2RswJU0bk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/OW2RswJU0bk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ehqjSCE3EfKyDbt0irRQQ4Et7ng\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "SoNS4upFnpg"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-07T21:15:00.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "자수성가 100억, 1000억 부자가 말하는 5가지 덕목, 나는 부자가 될 수 있을까?",
+              "description": "한국의 자수성가한 부자들이 말하는 5가지 덕목. 부자들은 어떤 마음가짐으로 살아왔으며, 어떻게 부자가 되었을까? 부자가 되기 위한 기본 마음가...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/SoNS4upFnpg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/SoNS4upFnpg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/SoNS4upFnpg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a1m8Fw9sGX4Q9od75gI2Lm__4Fo\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "uW3W8gZOUf8"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-06T20:45:01.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "주식 매도/익절 타이밍을 잘 잡으면, 수익률이 오른다! 고점매도 저점매수도 가능?",
+              "description": "주식에서 제일 쉬운 것이 '매수'입니다. 하지만, 주식에서 제일 어려운 것이 '매도'입니다. 그렇기 때문에 우리는 '매도'에 대해서 공부를 해야합니다...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/uW3W8gZOUf8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/uW3W8gZOUf8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/uW3W8gZOUf8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZbqrEqWDGLNJBygFOf4cLfSzwuM\"",
+            "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PLtlJrIJSiVdX4lapfAC2TNfrWi2asV-H3"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-05T13:41:51.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "주식 투자 노하우 & 리딩",
+              "description": "주식 투자 노하우, 시황, 종목 리딩.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/XNYZ81pcvhA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/XNYZ81pcvhA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/XNYZ81pcvhA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BE3G_zXaxa7tcp_vFQSLdoQzvaE\"",
+            "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PLtlJrIJSiVdUi-aTfyy_OA5nU2pKENRvf"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-05T13:40:49.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "자유잍튜브표 각성제 - 정신교육",
+              "description": "투자/재테크를 하는 데 있어서 필요한 마음가짐과 자세.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/iPBA-8cWkkA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/iPBA-8cWkkA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/iPBA-8cWkkA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sKvRHZlynJSq9Qf6myu8_-J4h4k\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "LRD4mOyrNPM"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-05T13:15:25.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "(1편) 35년 만에 버블이 다가오고 있다. 과거 버블 사례를 살펴보고 버블을 준비하자.",
+              "description": "미국과 중국의 #무역전쟁 뒤에는 #버블 이 기다리고 있습니다. 그렇지만 과연 그 버블이 어떻게 찾아오게 될까요? 그리고 버블의 끝, 어떻게 끝나게...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/LRD4mOyrNPM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/LRD4mOyrNPM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/LRD4mOyrNPM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-sOHaJd1rO9NrAq9p3FNLMhdU84\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "YVuHZcEQc-Q"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-03T14:37:55.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "무역전쟁, 선택 해야하는 한국. 흥망성쇠 미래가 달렸다.",
+              "description": "미중 무역전쟁이 장기화될 조짐을 보이면서, 미국과 중국은 '한국'에게 빨리 줄을 서라고 말합니다. 중국을 선택할 것인지, 미국을 선택할 것인지....",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YVuHZcEQc-Q/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YVuHZcEQc-Q/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YVuHZcEQc-Q/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DcbShz3GZQnvdC8Npj4u5R1a-iw\"",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "2jqPSWviZQE"
+            },
+            "snippet": {
+              "publishedAt": "2019-06-02T14:44:01.000Z",
+              "channelId": "UCcWOqKgGR8rmNHsb2P6PGgQ",
+              "title": "희토류 무기화, 수출 중단? 스스로 무덤을 파는 행동 - 3가지 관전 포인트",
+              "description": "미국과 중국의 무역 전쟁이 장기화될 조짐을 보이고 있습니다. 미 연준은 금리 인하 가능성을 이야기 하기도 했습니다. 그리고 중국은 '최후의...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/2jqPSWviZQE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/2jqPSWviZQE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/2jqPSWviZQE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "자유잍튜브THE",
+              "liveBroadcastContent": "none"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": "yGFLeMlwFp8",
+      "statistics": {
+        "viewCount": "3486",
+        "likeCount": "13",
+        "dislikeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "id": "3JnTak-MLrA",
+      "statistics": {
+        "viewCount": "5509",
+        "likeCount": "26",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      }
+    },
+    {
+      "id": "kbgc0foCj7I",
+      "statistics": {
+        "viewCount": "1674",
+        "likeCount": "186",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "id": "N32ob1ihgP0",
+      "statistics": {
+        "viewCount": "10620",
+        "likeCount": "85",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    },
+    {
+      "id": "a11J98HcFPc",
+      "statistics": {
+        "viewCount": "14112",
+        "likeCount": "80",
+        "dislikeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "id": "Q8Xuzqe5hDI",
+      "statistics": {
+        "viewCount": "14068",
+        "likeCount": "108",
+        "dislikeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "id": "x7r7QdGIakM",
+      "statistics": {
+        "viewCount": "1789",
+        "likeCount": "14",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "id": "SfZGSeOUOVA",
+      "statistics": {
+        "viewCount": "1351",
+        "likeCount": "9",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "id": "Sh6oZrabioM",
+      "statistics": {
+        "viewCount": "1830",
+        "likeCount": "11",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "id": "8vNU9cOhEyw",
+      "statistics": {
+        "viewCount": "14886",
+        "likeCount": "84",
+        "dislikeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "id": "jJMZtjlprdQ",
+      "statistics": {
+        "viewCount": "10089",
+        "likeCount": "54",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "id": "GvGdAjN8LzU",
+      "statistics": {
+        "viewCount": "13663",
+        "likeCount": "108",
+        "dislikeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "id": "HXBrF8fcYvw",
+      "statistics": {
+        "viewCount": "1740",
+        "likeCount": "16",
+        "dislikeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "id": "yc2dXMSeg7w",
+      "statistics": {
+        "viewCount": "1884",
+        "likeCount": "24",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "id": "enVUqqLmTwM",
+      "statistics": {
+        "viewCount": "593",
+        "likeCount": "20",
+        "dislikeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "id": "pGb4i8AoRVg",
+      "statistics": {
+        "viewCount": "2193",
+        "likeCount": "170",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "id": "WN4toBshIIg",
+      "statistics": {
+        "viewCount": "28770",
+        "likeCount": "129",
+        "dislikeCount": "17",
+        "favoriteCount": "0",
+        "commentCount": "103"
+      }
+    },
+    {
+      "id": "IOXG2LkeIB4",
+      "statistics": {
+        "viewCount": "598",
+        "likeCount": "6",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "id": "CNvTj7DfrfE",
+      "statistics": {
+        "viewCount": "3962",
+        "likeCount": "65",
+        "dislikeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "59"
+      }
+    },
+    {
+      "id": "L40HAu2BjGw",
+      "statistics": {
+        "viewCount": "9376",
+        "likeCount": "51",
+        "dislikeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "id": "yPQqw0_5slc",
+      "statistics": {
+        "viewCount": "1154",
+        "likeCount": "23",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "id": "c_bWF70S-Wo",
+      "statistics": {
+        "viewCount": "2966",
+        "likeCount": "13",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "id": "DQblDS4G3Wo",
+      "statistics": {
+        "viewCount": "6526",
+        "likeCount": "25",
+        "dislikeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "id": "nzzEwMJxPgE",
+      "statistics": {
+        "viewCount": "11132",
+        "likeCount": "592",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "54"
+      }
+    },
+    {
+      "id": "hqS6jIPlsTQ",
+      "statistics": {
+        "viewCount": "12438",
+        "likeCount": "177",
+        "dislikeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "38"
+      }
+    },
+    {
+      "id": "DxRuhmqoDpk",
+      "statistics": {
+        "viewCount": "2856",
+        "likeCount": "39",
+        "dislikeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "id": "LsSAANodd00",
+      "statistics": {
+        "viewCount": "3605",
+        "likeCount": "24",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "id": "lXxmaVCJ_Rg",
+      "statistics": {
+        "viewCount": "3220",
+        "likeCount": "130",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "id": "lzbs9sIhlwY",
+      "statistics": {
+        "viewCount": "34493",
+        "likeCount": "160",
+        "dislikeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      }
+    },
+    {
+      "id": "oj1JtOXVuEo",
+      "statistics": {
+        "viewCount": "12777",
+        "likeCount": "67",
+        "dislikeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "id": "FDYe2BKNV4M",
+      "statistics": {
+        "viewCount": "153036",
+        "likeCount": "1226",
+        "dislikeCount": "69",
+        "favoriteCount": "0",
+        "commentCount": "323"
+      }
+    },
+    {
+      "id": "_r9CW2NLXuE",
+      "statistics": {
+        "viewCount": "1466",
+        "likeCount": "45",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "id": "QosJf6e0z14",
+      "statistics": {
+        "viewCount": "10829",
+        "likeCount": "145",
+        "dislikeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      }
+    },
+    {
+      "id": "ZuTVwrmEUQU",
+      "statistics": {
+        "viewCount": "3823",
+        "likeCount": "44",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "id": "Y-G5Gryv_mM",
+      "statistics": {
+        "viewCount": "3829",
+        "likeCount": "170",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "id": "wiE1p0DqJHk",
+      "statistics": {
+        "viewCount": "1810",
+        "likeCount": "22",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "id": "o5nabO_IZfs",
+      "statistics": {
+        "viewCount": "923",
+        "likeCount": "26",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "id": "Dbxn4a5Rf_s",
+      "statistics": {
+        "viewCount": "2431",
+        "likeCount": "25",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "id": "oL3iDMeq5z8",
+      "statistics": {
+        "viewCount": "37525",
+        "likeCount": "450",
+        "dislikeCount": "22",
+        "favoriteCount": "0",
+        "commentCount": "151"
+      }
+    },
+    {
+      "id": "ZW7L8uJlrqg",
+      "statistics": {
+        "viewCount": "1168",
+        "likeCount": "132",
+        "dislikeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "id": "RB0ZfRP2Wzo",
+      "statistics": {
+        "viewCount": "14187",
+        "likeCount": "73",
+        "dislikeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "id": "kNYA3H1jSSs",
+      "statistics": {
+        "viewCount": "35102",
+        "likeCount": "813",
+        "dislikeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "62"
+      }
+    },
+    {
+      "id": "Qprid2A9CjY",
+      "statistics": {
+        "viewCount": "3503",
+        "likeCount": "37",
+        "dislikeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      }
+    },
+    {
+      "id": "lZ1MQGkuLmM",
+      "statistics": {
+        "viewCount": "1761",
+        "likeCount": "115",
+        "dislikeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "id": "05bdqRGsyBg",
+      "statistics": {
+        "viewCount": "814",
+        "likeCount": "56",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "id": "le9kBoU07zk",
+      "statistics": {
+        "viewCount": "205393",
+        "likeCount": "2043",
+        "dislikeCount": "98",
+        "favoriteCount": "0",
+        "commentCount": "443"
+      }
+    },
+    {
+      "id": "nUNnVIQMsSs",
+      "statistics": {
+        "viewCount": "2126",
+        "likeCount": "23",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "id": "U9MX9W3F80Q",
+      "statistics": {
+        "viewCount": "110101",
+        "likeCount": "1114",
+        "dislikeCount": "63",
+        "favoriteCount": "0",
+        "commentCount": "358"
+      }
+    }
+  ]
+}

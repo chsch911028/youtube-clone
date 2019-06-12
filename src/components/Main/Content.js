@@ -6,7 +6,13 @@ const Content = ({ channelId }) => {
   const [videos, setVideos] = useState([]);
 
   const getVideos = async channelId => {
-    console.log(channelId);
+    /* Get Json-Server Youtube Channel Data - Temporary Method */
+
+    const response = await axios
+      .create({ baseURL: "http://localhost:3000/channels" })
+      .get(`/${channelId}`);
+
+    /* Get Youtube Video Data - Origin Method 
     const response = await axios
       .create({
         baseURL: "https://www.googleapis.com/youtube/v3"
@@ -20,8 +26,17 @@ const Content = ({ channelId }) => {
           channelId: channelId
         }
       });
+    */
 
-    setVideos(response.data.items);
+    setVideos(response.data.data.items);
+
+    /* Migration: Youtube Channel Data to My Json Server 
+    axios
+      .create({
+        baseURL: "http://localhost:3000/channels"
+      })
+      .put(`/${channelId}`, { id: `${channelId}`, data: response.data });
+    */
     //response.data.nextPageToken
   };
 
@@ -36,7 +51,7 @@ const Content = ({ channelId }) => {
   return (
     <div className="content">
       <div className="content-title">{videos[0].snippet.channelTitle}</div>
-      <VideoList key={videos[0].snippet.channelTitle} videos={videos} />
+      <VideoList videos={videos} />
     </div>
   );
 };
