@@ -6,7 +6,7 @@ const SearchForm = () => {
     <form className="search-form">
       <input className="search-bar-input" placeholder="검색" />
       <button className="search-button" type="submit">
-        <img className="search-button-img" src={SearchIcon} />
+        <img className="search-button-img" src={SearchIcon} alt="search" />
       </button>
       <div id="width" />
     </form>
