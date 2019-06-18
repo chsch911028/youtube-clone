@@ -10,7 +10,7 @@ const GuideItem = ({ item }) => {
           src={item.imgSrc}
         />
       </div>
-      <div className="guide-text">{item.text}</div>
+      <div className="guide-text">{item.title}</div>
     </div>
   );
 };
