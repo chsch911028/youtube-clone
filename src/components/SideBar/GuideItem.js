@@ -1,8 +1,8 @@
 import React from "react";
 
-const GuideItem = ({ item }) => {
+const GuideItem = ({ item, onClickHanlder }) => {
   return (
-    <div className="guide-item">
+    <div className="guide-item" onClick={onClickHanlder}>
       <div className="guide-icon">
         <img
           className="guide-icon-img"
